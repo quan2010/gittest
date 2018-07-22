@@ -18,3 +18,5 @@ if ($uri !== '/' and file_exists($requested))
 
 require_once $paths['public'].'/index.php';
 测试合并1
+
+测试合并2
