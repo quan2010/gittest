@@ -30,3 +30,5 @@ require_once $paths['public'].'/index.php';
 测试合并4
 
 测试合并5
+
+测试6
